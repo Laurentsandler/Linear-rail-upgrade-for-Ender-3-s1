@@ -7,6 +7,9 @@ The onshape link is also included for anyone who wants to make a copy and edit i
 This is a super simple linear rail mod for any Ender-3 S1 that only requires a linear rail, some screws, and heat set inserts, and all the rest of the parts are 3D printed. 
 I made it because first I wanted linear rails on my printer, and because any other kit that I found online was way too expensive. 
 
+onshape project link:
+
+https://cad.onshape.com/documents/fac020aa44eb06cbd0c00706/w/ebac372de750ff9a857e8866/e/0c0f5a0a0a0581772a508860?renderMode=0&uiState=69a9bbe5597a273def4bedee
 
 Here is the full assembly:
 <img width="1362" height="774" alt="image" src="https://github.com/user-attachments/assets/159791a0-7777-4ad0-a973-2c5ef450488a" />
