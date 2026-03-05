@@ -11,6 +11,10 @@ Here is what I found:
 
 
 I also needed to find some screws to screw the rail onto the mounts. And to attach the toolhead to the rail block.
+
+Slider Block Thread Size: M3x3.5
+Guide Rail Thread Size: M3x8
+
 I did some research and I found these:
 
 <img width="1536" height="859" alt="image" src="https://github.com/user-attachments/assets/e6d815b3-fe7e-4d02-b20e-9ddd75f358b2" />
