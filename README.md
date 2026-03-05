@@ -28,3 +28,16 @@ Then attach the 3D printed x-beam mounts as shown in the assembly and screw them
 Once completed, mount the carriage mount onto the linear rail carriage, screw it in, and then connect your hotend carriage. Screw that in. Once that is complete, you can put your hotend back on 
 
 
+
+BOM:
+
+# Bill of Materials (BOM)
+
+| Item Name | Price (€) | Quantity | Link | Total Cost (€) |
+|-----------|-----------|----------|------|---------------|
+| MGN12H Linear Rail 300mm with Block | 18.99 | 1 | [amazon](https://amzn.eu/d/0bAql0gU) | 18.99 |
+| M3 x 8mm Socket Head Screws (50pcs) | 5.45 | 1 | [amazon](https://amzn.eu/d/06HW7NeQ) | 5.45 |
+| M3 Heat Set Thread Inserts (100pcs) | 8.99 | 1 | [amazon](https://amzn.eu/d/00X7En5Z) | 8.99 |
+| 3D printed parts| N/A| 1 of each | N/A | N/A |
+| **TOTAL** |  |  |  |  ~33.43 |
+
