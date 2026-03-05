@@ -28,3 +28,31 @@ And one final thing, I needed to find some heat set inserts to put into my 3D pr
 
 
 **Total time spent: 0.7h**
+
+
+
+# March 5 10:48am : Designing the mod
+
+I designed the little mounts that connect the linear rail to the x-axis aluminum Extrusion.
+
+And the mount that connects the carriage to the extruder plate.
+
+
+Here is how it looks like:
+
+The full assembly:
+
+<img width="1362" height="774" alt="image" src="https://github.com/user-attachments/assets/ca2f6865-17a2-4bcf-a87c-ea4f3881afa2" />
+
+Just the 3d printed parts:
+
+<img width="1045" height="598" alt="image" src="https://github.com/user-attachments/assets/e42e21b4-5a36-41e2-bd36-b9d3940f67f7" />
+
+<img width="1045" height="598" alt="image" src="https://github.com/user-attachments/assets/2d8a35e2-3260-4a1f-baba-f6b590a62e34" />
+
+The heat set inserts will go into every hole on the 3d printed parts.
+
+
+Then I spent a little bit of time making sure that everything fits together perfectly with the correct tolerances, and everything seems good 
+
+**Total time spent: 4h**
