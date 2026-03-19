@@ -14,6 +14,9 @@ https://cad.onshape.com/documents/fac020aa44eb06cbd0c00706/w/ebac372de750ff9a857
 Here is the full assembly:
 <img width="1362" height="774" alt="image" src="https://github.com/user-attachments/assets/159791a0-7777-4ad0-a973-2c5ef450488a" />
 
+<img width="1220" height="645" alt="image" src="https://github.com/user-attachments/assets/bea2f7c3-eff7-4e0d-b237-e752fafb48c1" />
+
+
 Assembly instructions:
 
 to assemble the mod, you first need to print all the parts in preferably strong PLA+ or PETG. 
