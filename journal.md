@@ -56,3 +56,19 @@ The heat set inserts will go into every hole on the 3d printed parts.
 Then I spent a little bit of time making sure that everything fits together perfectly with the correct tolerances, and everything seems good 
 
 **Total time spent: 4h**
+
+
+
+# March 19 6:19pm : Reinforcing The Mount
+
+After my review, it was suggested to reinforce my mounting plates by extruding them forward inward on the aluminum extrusion, to help with rigidity.
+So I spent a couple minutes on Onshape updating the design and making sure the tolerances fit correctly, and here's what I came up with:
+
+<img width="1135" height="631" alt="image" src="https://github.com/user-attachments/assets/d52b180a-ddbb-4018-a588-fc9dbcf27006" />
+
+<img width="1135" height="631" alt="image" src="https://github.com/user-attachments/assets/d86eb87a-6da9-4a13-9dfa-eb9af14262cb" />
+
+<img width="1220" height="645" alt="image" src="https://github.com/user-attachments/assets/76d0fc89-9cd3-416a-bde6-40a2b8074818" />
+
+**Total time spent: 0.15h**
+
